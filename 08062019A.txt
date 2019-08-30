@@ -1,0 +1,93 @@
+{1:F21RENDBRSPAXXX4464460798}{4:{177:1906081457}{451:0}}{1:F01RENDBRSPAXXX4464460798}{2:O1031357190608BOFAUS3NBXXX29488060281906081457N}{3:{108:1906080367448-03}{111:001}{121:08e8f90c-7d4f-4ee9-9d52-efcde4aac40c}}{4:
+:20:2019060800367448
+:23B:CRED
+:32A:190608USD9420,
+:33B:USD9420,
+:50K:/000573003261
+TOURS LIMITED LLC
+3250 PEACHTREE INDUSTRIAL BLVD STE
+107
+DULUTH, GA 300968310
+:52A:CHASUS33
+:59:/6550925836
+PERSONAL BRASIL TURISMO
+AV. DA NACOES UNIDAS
+SAO PAULO SP BR
+:70:INV 5680 FIT MR. ANANDAN -PRATIBHA
+20 MAY-03 JUN 2019 INVOICE PAYMENT
+:71A:SHA
+:71F:USD0,
+:71F:USD0,
+-}{5:{MAC:00000000}{CHK:A5FB4F6F53CE}}{S:{SAC:}{COP:S}}                                                                                                                                                                                                                                                                                                                                                                                    {1:F21RENDBRSPAXXX4464460797}{4:{177:1906081454}{451:0}}{1:F01RENDBRSPAXXX4464460797}{2:O1031354190608CITIUS33CXXX70270289871906081454N}{3:{108:1952113534110G01}{111:001}{121:44b27572-7bf1-41e9-94e5-a3ee79986554}}{4:
+:20:2019060800037831
+:23B:CRED
+:32A:190608USD1401,24
+:33B:USD1401,24
+:50K:/000004123815516
+GOOGLE LLC, ACCOUNTS RECEIVABLE
+ACCOUNTS RECEIVABLE
+1600 AMPHITHEATRE PKWY
+MOUNTAIN VIEW CA US 94043-1351
+:53A:BOFAUS3N
+:59:/SEFI11014468000151
+KERDNA PRODUCAO EDITORIAL LTDA
+Brasilia BR
+:70:GOOGLE ADVERTISING PAYMENT
+:71A:BEN
+:71F:USD0,
+-}{5:{MAC:00000000}{CHK:14E91B65791E}}{S:{SAC:}{COP:P}}                                                                                                                                                                                                                                                                                                                                                                                                                             {1:F21RENDBRSPAXXX4465460979}{4:{177:1906080637}{451:0}}{1:F01RENDBRSPAXXX4465460979}{2:O1030236190608WFBIUS6SEXXX00900558041906080637N}{3:{108:1906080037808-08}{121:43268c3f-f6ab-40b5-a6cf-adcfdf9081a7}}{4:
+:20:2019060800044459
+:23B:CRED
+:32A:190608USD398,39
+:33B:USD398,39
+:50K:/000004123815516
+GOOGLE LLC, ACCOUNTS RECEIVABLE
+ACCOUNTS RECEIVABLE
+1600 AMPHITHEATRE PKWY
+MOUNTAIN VIEW CA US 94043-1351
+:53A:BOFAUS3N
+:59:/SEFI00765782162
+Helisa Regina de Brito Oliveira
+Guarai BR
+:70:GOOGLE ADVERTISING PAYMENT
+:71A:BEN
+:71F:USD0,
+-}{5:{MAC:00000000}{CHK:6A57E96B4A83}}{S:{SAC:}{COP:S}}                                                                                                                                                                                                                                                                                                                                                                                                                                   {1:F21RENDBRSPAXXX4465463166}{4:{177:1906080703}{451:0}}{1:F01RENDBRSPAXXX4465463166}{2:O1030248190608WFBIUS6SEXXX00900564861906080703N}{3:{108:1906080045355-08}{121:5924d394-b832-4cf2-8213-101b83978504}}{4:
+:20:S0691412C5CD01
+:23B:CRED
+:32A:190608USD56116,72
+:33B:USD56116,72
+:50K:/RUC20131380101
+MINISTERIO DE RELACIONES EXTERIORES
+JR LAMPA 545
+LIMA                LIMA
+PERU
+:52A:BINPPEPLXXX
+:53A:BOFAUS3NXXX
+:59:/BR3468900810000032133060037C1
+EMBAIXADA DA REPURBLICA DO PERU
+04 2019
+BRASIL             BRASIL
+BRAZIL
+:70:954
+SALARIES MAY  2019
+:71A:OUR
+-}{5:{MAC:00000000}{CHK:1ECD25738908}}{S:{SAC:}{COP:S}}                                                                                                                                                                                                                                                                                                                                                                                               {1:F21RENDBRSPAXXX4464460794}{4:{177:1906081439}{451:0}}{1:F01RENDBRSPAXXX4464460794}{2:O1031339190608BOFAUS3MAXXX66267000801906081439N}{3:{108:1906080361604-04}{111:001}{121:77a775e6-8585-45f5-9b4d-c3682ad267e6}}{4:
+:20:2019060800457806
+:23B:CRED
+:32A:190418USD2069,65
+:33B:USD2069,65
+:50K:/2018470002
+AGILLITAS SERV DE PAG SA  VTM
+R AV BRIGADEIRO FARIA LIMA 2092 N
+/ISAO PAULO SP BRASIL
+CPF/CNPJ/ID 13776742000155
+:52A:/006550925836
+RENDBRSP
+:59:/6550225802
+BANCO RENDIMENTO USD
+:70:OMPRA/SAQUE IOF VISA BRL 17/04/210
+9
+:71A:SHA
+:71F:USD0,
+-}{5:{MAC:00000000}{CHK:C38AB84CB482}}{S:{SAC:}{COP:S}}                                                                                                                                                                                                                                                                                                                                                                                                                       {1:F21RENDBRSPAXXX4439449220}{4:{177:1904181855}{451:0}}{1:F01RENDBRSPAXXX4439449220}{2:O9101755190418BOFAUS3NBXXX28967227991904181855N}{3:{108:1904180457468-05}}{4:
